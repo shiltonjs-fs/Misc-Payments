@@ -1,0 +1,243 @@
+DWH_CARDUP_PAYMENT_ID,CARDUP_PAYMENT_CUSTOMER_COMPANY_ID,CARDUP_PAYMENT_SUCCESS_AT_UTC_TS,CARDUP_PAYMENT_PAYEE_NAME,CARDUP_PAYMENT_PAYMENT_TYPE,CARDUP_PAYMENT_SCHEDULE_TYPE,CARDUP_PAYMENT_USD_AMT,CARDUP_PAYMENT_NET_REVENUE_USD_AMT,CARDUP_PAYMENT_TOTAL_REVENUE_USD_AMT,PAYEE_NAME_WITH_SPACES,tokens,tokens_corpus,cluster
+0ed70a8847c3aa0f3ffb5233986a98fd,,2022-08-25 05:18:06,74623_CONCEPT THEORY STUDIO PTE LTD,Misc,one off,4155.9224,28.4695852,89.7315216, concept theory studio  ,"['concept', 'theory', 'studio']",concept theory studio,2
+3f5ff0986eab944259ebb87344b26ec7,,2023-07-06 15:00:44,46519_Moment Design MFG PTE LTD,Misc,one off,4766.873328,2.7377518,69.1187532, moment design mfg  ,"['moment', 'design', 'mfg']",moment design mfg,2
+3c39f7e583c46138ef68f1c38947e5ff,,2022-09-29 07:57:09,2382_EPIC INTERIOR DESIGN LIMITED,Misc,one off,,,, epic interior design ,"['epic', 'interior', 'design']",epic interior design,2
+9a8861f17fe55226ece20b86e48889f0,,,55696_ART LIVING STUDIO PTE LTD - NIC WAN,Misc,recurring,1516.76,28.06006,28.06006, art living studio    nic wan,"['art', 'living', 'studio', 'nic', 'wan']",art living studio nic wan,2
+dca7388b22d4d5eba921b17c2ad32f92,,2022-03-01 07:00:28,59040_Urban Habitat Design Pte Ltd,Misc,one off,35298.7971,227.5595028,1164.8640962, urban habitat design  ,"['urban', 'habitat', 'design']",urban habitat design,2
+b44d3a9732f46b37b43182c97574fee8,,2021-01-05 03:33:04,32186_ASCEND DESIGN PRIVATE LIMITED,Misc,one off,16192.92976,-25.709082,383.854037, ascend design  ,"['ascend', 'design']",ascend design,2
+2ee15a87fd4bbc93d64f901597c9a120,,,70781_Exqucity Design Studio,Misc,one off,6067.04,136.5084,136.5084, exqucity design studio,"['exqucity', 'design', 'studio']",exqucity design studio,2
+7fe726d5c7e368f10b15e9b268b20d1e,,2020-09-14 04:01:26,34702_Air Connection Design Pte Ltd,Misc,one off,1440.922,-0.0834218,47.550426, air connection design  ,"['air', 'connection', 'design']",air connection design,2
+46312a9368ed9df6f59ade54a63e2e7e,,2022-12-29 10:00:22,88231_LAS Design Studio Pte Ltd,Misc,one off,5308.66,-45.161529,84.93856, las design studio  ,"['las', 'design', 'studio']",las design studio,2
+e97dd81660254adc49a1eefdc09825c4,,2022-09-27 04:20:51,77466_ASCEND STUDIO PTE LTD,Misc,one off,8794.17448,4.2393442,197.8689258, ascend studio  ,"['ascend', 'studio']",ascend studio,2
+053df9547ce97d4ca47822ee1626ee77,,2022-05-19 04:02:50,64462_VELOCE GLOBAL PTE. LTD.,Misc,one off,3033.52,25.6256602,68.2542, veloce global  ,"['veloce', 'global']",veloce global,1
+dc471439ae6dc238c47642779a940a9a,,2024-06-11 10:43:15,17089_WL DESIGN & RENOVATION WORKS,Misc,one off,189.49186032,1.10863628624,3.03186976512, wl design  renovation works,"['wl', 'design', 'renovation', 'works']",wl design renovation works,2
+5c90bc1287c4f41f266a50190242339b,,,244185_JGS Global Pte. Ltd.,Misc,one off,216.1686352,3.8904894,3.8904894, jgs global  ,"['jgs', 'global']",jgs global,1
+fe23b1c1169fa3e0bca14c272ec785fb,,2023-09-07 11:00:30,5758_IM GLOBAL PROPERTY CONSULTANTS SDN BHD,Misc,one off,348.4907776,0.33106623872,3.484907776, im global property consultants  ,"['im', 'global', 'property', 'consultants']",im global property consultants,1
+a6651e874ff98e6bd81c2a9ab157f23f,,2022-10-28 04:02:27,70244_Open Studio PTE Ltd ,Misc,one off,36044.625911,132.4814022,612.7558724, open studio   ,"['open', 'studio']",open studio,2
+565e9bae51c98fac9ca3b9a25429dbee,,2022-03-28 04:04:55,48288_ARCADIA DESIGN GROUP PTE LTD,Misc,one off,10919.15524,92.598198,245.6847848, arcadia design group  ,"['arcadia', 'design', 'group']",arcadia design group,2
+453edfe7e959027932bb81b05b80037a,,2020-03-19 04:53:45,28340_Ding Furniture Design,Misc,one off,3063.8552,1.2816622,68.936742, ding furniture design,"['ding', 'furniture', 'design']",ding furniture design,2
+2e4aaa666658e633d4a6b2559d61ff0c,,2024-06-20 04:23:56,162520_Incognito studio,Misc,one off,280.6006,1.2664946,5.0508108, incognito studio,"['incognito', 'studio']",incognito studio,2
+b24190abbcee90240e8fac0c3a6d70da,,,74427_HOMBELLE DESIGN,Misc,one off,1763.2335,44.9643502,44.9643502, hombelle design,"['hombelle', 'design']",hombelle design,2
+77292f79d23a87edfc3b858822c6b360,,2021-07-05 23:01:55,46597_THE 80s STUDIO PTE. LTD,Misc,one off,4590.625816,8.5166074,103.291356, the s studio  ,['studio'],studio,2
+eec69d2948cbd86a9ae8f9433f8c2c76,,2020-07-23 04:01:59,30879_SINFONIA MUSIC STUDIO PTE. LTD,Misc,one off,212.3464,-0.1971788,4.777794, sinfonia music studio  ,"['sinfonia', 'music', 'studio']",sinfonia music studio,2
+4c8690eb0a0180fc26dc07d2c5c46540,,2021-11-09 15:01:27,51743_U-Home Interior Design Pte Ltd,Misc,recurring,5293.4924,22.865157,97.9296094, uhome interior design  ,"['uhome', 'interior', 'design']",uhome interior design,2
+b87064adab599229a81fad85756fe9c6,,,28422_Global Motor Pte Ltd,Misc,recurring,250.720428,6.522068,6.522068, global motor  ,"['global', 'motor']",global motor,1
+6839bea8b808a13fc4a18d20d53ee8e4,,2019-03-13 04:01:46,12213_STEP SINGAPORE 3 PTE. LTD.,Misc,one off,379.19,1.4636734,9.85894, step    ,['step'],step,0
+ee46a55c4178268c2435017fe96975a6,,,140146_R GLOBAL CAR RENTAL SDN BHD,Misc,one off,441.832188,461.0495372,469.5206418, r global car rental  ,"['r', 'global', 'car', 'rental']",r global car rental,1
+87c9efd4931a1a408e0bd5b0c018d39a,,,13363_Sky Creation Interior Design Pte Ltd,Misc,one off,14659.4854,365.9790204,365.9790204, sky creation interior design  ,"['sky', 'creation', 'interior', 'design']",sky creation interior design,2
+7bd0ed4a0d27bb7917598741bc89e694,,,196773_Bequest Prestige Global Pte Ltd,Misc,recurring,3791.9,70.15015,70.15015, bequest prestige global  ,"['bequest', 'prestige', 'global']",bequest prestige global,1
+33c88feb2446126406051cb198ac48e5,,2020-08-12 15:00:33,29746_Writers Studio Pte Ltd,Misc,one off,170.6355,1.289246,3.8374028, writers studio  ,"['writers', 'studio']",writers studio,2
+cb84c97d01a01505f375a718cf87c71c,,2023-05-03 04:09:37,111750_Studio HHFZ,Misc,one off,456.92395,4.0345816,10.2836328, studio hhfz,"['studio', 'hhfz']",studio hhfz,2
+cf68da5feaa314c47d207780a7d9d833,,2021-04-22 07:00:06,43691_Bebo Studio ,Misc,one off,379.19,1.1679052,10.99651, bebo studio ,"['bebo', 'studio']",bebo studio,2
+0fee42f8ef64505d5b90a7c372f50488,,,178232_YID DESIGN & BUILD PRIVATE LIMITED,Misc,recurring,11129.2265,205.8925862,205.8925862, yid design  build  ,"['yid', 'design', 'build']",yid design build,2
+3226a819e808326c175df2243ac8c931,,,221709_A M E P DESIGN,Misc,one off,530.0241982,552.0475534,561.1784486, a m e p design,"['e', 'p', 'design']",e p design,2
+7b7ee28b75a539037d80dcd348a4df7d,,2022-08-05 04:01:08,64684_Inner View Design & Contracts Pte Ltd,Misc,recurring,7583.8,34.3697816,140.3003, inner view design  contracts  ,"['inner', 'view', 'design', 'contracts']",inner view design contracts,2
+2a7b06f28177c0c7399e368100f32d85,,2020-01-13 06:18:17,25496_Aggregate Design Studio,Misc,one off,7583.8,9.0398896,170.6355, aggregate design studio,"['aggregate', 'design', 'studio']",aggregate design studio,2
+b09af1dd96b0024104a54d5c0252e161,,,242791_Cocoon Studio Pte. Ltd.,Misc,recurring,284.3925,7.394205,7.394205, cocoon studio  ,"['cocoon', 'studio']",cocoon studio,2
+d61c5a80a1566a192bcf7de59af98509,,2024-07-04 04:05:03,213517_Caperi Studio,Misc,recurring,144.0922,0.6597906,2.6694976, caperi studio,"['caperi', 'studio']",caperi studio,2
+e4e632c7eb0775c0e7923e3d3ad2931b,,2024-03-06 09:06:03,175936_MDNS Studio Sdn Bhd,Misc,one off,814.0375082,0.0455028,31.3438454, mdns studio  ,"['mdns', 'studio']",mdns studio,2
+cbff20c536733eb2f25cc9e8ffe544b9,,2019-03-14 05:17:04,15046_Urban Design House Pte Ltd,Misc,one off,6190.27675,28.5454232,160.9509874, urban design house  ,"['urban', 'design', 'house']",urban design house,2
+9c314006151c1620f756a1f9fd006db6,,,58910_Leads Global Pte Ltd,Misc,recurring,591.3316374,15.3723626,15.3723626, leads global  ,"['leads', 'global']",leads global,1
+cdb823edef7f19ecfcec25c93de25d78,,2023-09-22 08:23:58,6098_OOPS GLOBAL FORWARDING (M) SDN. BHD,Misc,one off,488.64069994656,2.61150276464,6.84130957776, oops global forwarding m  ,"['oops', 'global', 'forwarding']",oops global forwarding,1
+80153a6f6b899c617c403b5142aa5ae1,,2023-07-10 04:03:28,126724_Multifolds photography global,Misc,one off,810.632382,1.9490366,18.239039, multifolds photography global,"['multifolds', 'photography', 'global']",multifolds photography global,1
+d633e1beea88332ae5e2e9d986418a1b,,2021-09-10 04:00:42,50429_ EFR DESIGN PTE. LTD.,Misc,one off,1516.76,5.0128918,43.98604,  efr design  ,"['efr', 'design']",efr design,2
+8e20294d2b412db444b01aa226e7c007,,2023-11-28 14:42:04,152301_FEEKO BUILDERS & DESIGN,Misc,one off,359.85131,1.4940086,17.0559662, feeko builders  design,"['feeko', 'builders', 'design']",feeko builders design,2
+a0213b720271ad2879b16b23cd2bc601,,,13116_Kings Design Studio,Misc,one off,1592.598,41.407548,41.407548, kings design studio,"['kings', 'design', 'studio']",kings design studio,2
+feeb642d35c8bc6ef07a15f56ca83932,,2024-07-24 10:02:03,225777_OMNI GLOBAL PTE. LTD.,Misc,one off,441.2330678,2.0627936,7.9402386, omni global  ,"['omni', 'global']",omni global,1
+aa258e242d3b2ac0e503988b784f2d18,,2022-06-13 10:00:08,65435_ATLAS LIFESTYLE PTE. LTD.,Misc,one off,1330.9569,1.0313968,34.6048794, atlas lifestyle  ,"['atlas', 'lifestyle']",atlas lifestyle,4
+509e237da0f014eb6bbfc5ce351106f9,,2021-12-09 07:54:06,52345_SPACE by the half half studio,Misc,one off,6101.1671,2.843925,137.2743638, space by the half half studio,"['space', 'half', 'half', 'studio']",space half half studio,2
+9d94b3e85adb44f6391b661f5892f611,,2024-07-15 04:15:14,223127_BKS IYENGAR YOGA STUDIO,Misc,one off,500.5308,4.5806152,11.261943, bks iyengar yoga studio,"['bks', 'iyengar', 'yoga', 'studio']",bks iyengar yoga studio,2
+1a885e4e8411a53b3389c9d3a688904d,,2022-10-31 04:02:05,80365_QUADWORK INTERIOR DESIGN AND BUILDERS PTE. LTD.,Misc,one off,758.38,-2.65433,7.507962, quadwork interior design and builders  ,"['quadwork', 'interior', 'design', 'builders']",quadwork interior design builders,2
+f11a26b6820a679535e545fbe7f78361,,2020-05-19 11:01:57,30478_Hall Design Studio,Misc,one off,3564.386,1.5395114,80.198685, hall design studio,"['hall', 'design', 'studio']",hall design studio,2
+86ce37c0fe9f96655fca982bfe74eb4f,,2022-10-11 23:30:06,72598_BASIC IMAGE & DESIGN PTE LTD,Misc,one off,5308.66,20.6203522,138.02516, basic image  design  ,"['basic', 'image', 'design']",basic image design,2
+10aaf1378f5e4ae99a7ae3d76c85570c,,2024-03-11 10:01:37,175716_Penson Design & Contractor Pte Ltd,Misc,one off,123.99513,1.023813,2.7908384, penson design  contractor  ,"['penson', 'design', 'contractor']",penson design contractor,2
+ed882012bf364f9af7e684077cdc3b50,,2024-10-02 13:27:12,245738_PERSEKUTUAN TAEKWON-DO GLOBAL MALAYSIA,Misc,one off,1905.4069986,-6.3931434,63.514325, persekutuan taekwondo global malaysia,"['persekutuan', 'taekwondo', 'global', 'malaysia']",persekutuan taekwondo global malaysia,1
+a4d5890c83e780747f2f8e00f84b7b50,,,190232_GIFO Global,Misc,one off,7583.8,193.3869,193.3869, gifo global,"['gifo', 'global']",gifo global,1
+21ecab92f79df133ebf0512c9742e015,,2021-08-23 23:06:37,49566_OBLIVION LAB STUDIO PTE LTD,Misc,one off,4550.28,37.5853128,102.3813, oblivion lab studio  ,"['oblivion', 'lab', 'studio']",oblivion lab studio,2
+a2ebf408c849b27b054ad920b9bda04c,,2021-12-10 10:00:05,54573_GPlan Design & Creations Pte Ltd,Misc,one off,3640.224,8.455937,81.90504, gplan design  creations  ,"['gplan', 'design', 'creations']",gplan design creations,2
+66c3fcb32ceae40ecdaee71b473dde2f,,2024-10-08 11:18:16,172521_Design By Weld,Misc,one off,5510.6393454,1.440922,179.167275, design by weld,"['design', 'weld']",design weld,2
+ff299f76095effa1f0063a21235bdc06,,,91522_Global AirMiles Pte Ltd,Misc,one off,6745.107558,6908.0303334,6934.664639, global airmiles  ,"['global', 'airmiles']",global airmiles,1
+8173fb121d171366a8169c881d797211,,2022-05-26 15:00:08,66377_Job consultancy global Pte Ltd,Misc,one off,796.299,1.3423326,17.9205194, job consultancy global  ,"['job', 'consultancy', 'global']",job consultancy global,1
+76456df3a44cd152b8b90f91f98b2d91,,2022-06-30 04:02:48,69541_Harmony Piano Studio Pte Ltd,Misc,one off,492.947,5.2631572,12.5739404, harmony piano studio  ,"['harmony', 'piano', 'studio']",harmony piano studio,2
+e4bd8fe91108d85a99c7a6c0eebd6589,,2024-03-11 11:45:05,175283_By Heart Studio Pte Ltd,Misc,one off,1213.408,-7.9554062,8.797208, by heart studio  ,"['heart', 'studio']",heart studio,2
+9c050536f82bde90a85b3c05888f4286,,2022-03-21 15:00:08,60562_Happe Design Atelier Pte Ltd,Misc,one off,8606.4147596,4.1407548,193.6447492, happe design atelier  ,"['happe', 'design', 'atelier']",happe design atelier,2
+cc88e6a439bdd95a49fd2e5a6a102007,,2023-10-31 04:21:04,82489_TWINS STUDIO,Misc,one off,871.189025,0.1744274,32.8075188, twins studio,"['twins', 'studio']",twins studio,2
+261eecf375c948ea20e4275c4bd4bd7a,,2024-09-04 04:42:04,235940_FLIPSTONE INTERIOR DESIGN PRIVATE LIMITED,Misc,recurring,5575.078894,30.3276162,103.13968, flipstone interior design  ,"['flipstone', 'interior', 'design']",flipstone interior design,2
+11d7543a6e631fdb40b7b6fad9293aa4,,2021-08-13 15:00:39,49149_PMCE (Global) Pte Ltd,Misc,one off,12009.70568,4.664037,174.1392156, pmce global  ,"['pmce', 'global']",pmce global,1
+ebd28ff578994844ddb73fbd6fc81e67,,2023-06-23 07:56:03,3408_RNJ GLOBAL RESOURCES,Misc,one off,435.613472,-3.71578291616,0.0, rnj global resources,"['rnj', 'global', 'resources']",rnj global resources,1
+790669163b91e705d4f14c23a4900bec,,2022-03-07 10:00:16,59527_Creation Closet Design Pte Ltd,Misc,one off,379.19,-0.1061732,8.531775, creation closet design  ,"['creation', 'closet', 'design']",creation closet design,2
+a8f7c413da11c0e153f78aef25819bd3,,2021-10-04 10:00:09,51318_Make Room Studio Pte Ltd,Misc,one off,30335.2,15.357195,682.542, make room studio  ,"['make', 'room', 'studio']",make room studio,2
+cdceef5f72d6cf655270b3833a648786,,,117392_Kanopus Global Pte Ltd,Misc,one off,834.218,21.689668,21.689668, kanopus global  ,"['kanopus', 'global']",kanopus global,1
+c5a14b5550fcb3e8b09dceb40a48c297,,2022-06-06 10:00:39,66681_C&N Design Studios,Misc,one off,7356.286,63.8480122,165.516435, cn design studios,"['cn', 'design', 'studios']",cn design studios,2
+8f551bb2e53294bc6efeb5d1bfa6be75,,2022-06-08 10:00:26,67586_HOME & LIVING INTERIOR DESIGN AND RENOVATION,Misc,one off,12437.432,108.0539824,279.84222, home  living interior design and renovation,"['home', 'living', 'interior', 'design', 'renovation']",home living interior design renovation,2
+4b6ed6be3f3c9e9a12042bca804398b1,,2023-03-13 04:04:56,99133_Real Global Pte Ltd,Misc,one off,5460.336,65.675708,141.968736, real global  ,"['real', 'global']",real global,1
+f92f64f65098756c1972bcbff6c50dc0,,2024-04-23 15:00:34,189323_Comfort Design Pte Ltd,Misc,one off,1025.064327,-9.5025014,3.8980732, comfort design  ,"['comfort', 'design']",comfort design,2
+02b6144cd830ed3b0cc1f378f934e285,,2018-03-27 04:00:13,7826_GLOBAL ALLIANCE PROPERTY PTE LTD,Misc,one off,1338.91989,5.9305316,34.809642, global alliance property  ,"['global', 'alliance', 'property']",global alliance property,1
+476a9fd96963d16b165a3d7b605ade4b,,,143634_Crafty Farm Studio,Misc,one off,130.82055,136.9558442,143.0911384, crafty farm studio,"['crafty', 'farm', 'studio']",crafty farm studio,2
+ccc01f02c142955c33f9f0d38d0dcb9c,,2022-06-22 07:00:26,68833_OVON DESIGN PTE LTD,Misc,one off,17260.7288,149.9999802,388.366398, ovon design  ,"['ovon', 'design']",ovon design,2
+67381491a4aff957e282c77f64b1c64b,,,214854_Gau Architectural Design Studio,Misc,one off,3192.6963782,3286.5459032,3315.6449438, gau architectural design studio,"['gau', 'architectural', 'design', 'studio']",gau architectural design studio,2
+6097cae07b9ad49db1c9b53022bdfd8b,,2024-07-29 10:07:23,198748_Otis Elevator Company (S) Pte Ltd,Misc,one off,208.3118184,1.8276958,4.6867884, otis elevator company s  ,"['otis', 'elevator', 'company']",otis elevator company,0
+07e6f26393fbfdc9e214fbb73a8d1a99,,2021-10-15 10:00:11,51847_Lemonfridge Studio Pte. Ltd.,Misc,one off,3412.71,0.9024722,76.21719, lemonfridge studio  ,"['lemonfridge', 'studio']",lemonfridge studio,2
+71e0012b3663b1b6c69fff107b788f46,,2019-05-29 02:36:36,17626_Diva’s Interior Design Pte Ltd,Misc,one off,4041.78621,7.3335346,105.0887166, divas interior design  ,"['divas', 'interior', 'design']",divas interior design,2
+181cb722638b4ea54d43895420e6be49,,2019-01-23 15:00:32,14451_Vilm Media Studio Pte Ltd,Misc,one off,682.542,2.8742602,17.746092, vilm media studio  ,"['vilm', 'media', 'studio']",vilm media studio,2
+76701962fb1ea7936445ee0255275709,,2024-09-02 15:01:30,237102_De Art Studio Pte Ltd,Misc,one off,10617.32,99.802808,238.8897, de art studio  ,"['de', 'art', 'studio']",de art studio,2
+27bbb8b9064a8fbfcaf56e8a00cfb4da,,2021-09-06 23:04:27,50168_Light Basic Studio Pte Ltd,Misc,one off,3870.695682,1.4181706,56.1277038, light basic studio  ,"['light', 'basic', 'studio']",light basic studio,2
+499be057a460cf8c11094bec37003c5e,,2019-04-24 10:28:40,16705_Liid Studio Pte Ltd,Misc,one off,8190.504,23.0092492,197.785504, liid studio  ,"['liid', 'studio']",liid studio,2
+6b9e4f18a1fd62d1980eb9df099b1e20,,2021-10-08 09:18:06,51380_Rich Furniture Interior Design ,Misc,one off,1311.9974,-21.7048356,11.3605324, rich furniture interior design ,"['rich', 'furniture', 'interior', 'design']",rich furniture interior design,2
+d41cb6a52636eb761a4397aa7e04200b,,2022-02-24 04:06:46,58631_AC Vision Design Pte Ltd,Misc,one off,10960.86614,33.4900608,186.333966, ac vision design  ,"['ac', 'vision', 'design']",ac vision design,2
+e9c9e84fab817c2f7ffe400ef95a87ee,,2021-04-30 23:01:48,44025_Eight Design Studio Pte Ltd,Misc,one off,1810.25306,-11.4363704,31.8974628, eight design studio  ,"['eight', 'design', 'studio']",eight design studio,2
+276fb367fb4f3461926f5b7f58bd37af,,2023-07-03 15:00:20,24245_2nd Phase Design Interior Pte Ltd,Misc,one off,3791.9,47.8841132,98.5894, nd phase design interior  ,"['nd', 'phase', 'design', 'interior']",nd phase design interior,2
+e0e71660a054136874f8cb31bb387bfd,,2023-07-04 04:15:57,124344_Integrated Global Network Enterprise,Misc,one off,156.8405678,-2.1689668,0.0, integrated global network enterprise,"['integrated', 'global', 'network', 'enterprise']",integrated global network enterprise,1
+811044a1c4dd636badd1c07e5fbedd87,,2019-03-26 03:35:16,15938_WEIKEN.COM DESIGN PTE LTD,Misc,one off,7583.8,-0.7887152,182.0112, weikencom design  ,"['weikencom', 'design']",weikencom design,2
+8d4a05d0af94152955e137f898b6b8fc,,2023-05-08 10:00:31,104446_The Rehab Studio Pte Ltd,Misc,one off,1016.2292,2.6391624,26.4219592, the rehab studio  ,"['rehab', 'studio']",rehab studio,2
+d94153bc481934adf6a6846f2b12d221,,,24648_Kazehi Global Pte Ltd,Misc,one off,758.38,6.82542,6.82542, kazehi global  ,"['kazehi', 'global']",kazehi global,1
+e5281db557e9f3c2cdebc8163fd8c936,,2022-10-28 07:02:24,78914_ACHIEVERS DESIGN PRIVATE LIMITED,Misc,one off,4976.48956,45.1918642,111.974807, achievers design  ,"['achievers', 'design']",achievers design,2
+db162ba90a5a9220cdbe25c1a132931b,,2020-09-23 04:00:57,35010_SC DESIGN ASSOCIATE PTE LTD,Misc,one off,1277.8703,-0.5081146,33.2246278, sc design associate  ,"['sc', 'design', 'associate']",sc design associate,2
+e7c9c072d773bff7e35b35298b9b4773,,2022-09-20 10:00:19,67514_MU Design Studio Pte Ltd,Misc,one off,8190.504,74.4577484,184.28634, mu design studio  ,"['mu', 'design', 'studio']",mu design studio,2
+576cd50af9acc5aa31cd1b555c93f535,,2022-11-18 04:03:06,78561_FLO DESIGN PTE. LTD.,Misc,one off,872.137,-11.5577112,0.0, flo design  ,"['flo', 'design']",flo design,2
+e5d1afaf944cc5c4234ab65eb0ad6d78,,2023-11-07 02:30:06,148623_Griffin Global Pte Ltd,Misc,one off,1906.5749038,1.8428634,44.74442, griffin global  ,"['griffin', 'global']",griffin global,1
+99b72fd99894256920a5a15d220859a1,,2021-04-23 04:00:43,43627_Artz Design & Build Pte Ltd,Misc,one off,6825.42,-36.9406898,126.27027, artz design  build  ,"['artz', 'design', 'build']",artz design build,2
+f86e8d0ca7329a449c72aeddd2edae6f,,2023-02-22 04:03:18,64352_LUOVA STUDIO PTE. LTD.,Misc,recurring,356.4386,1.7139388,6.597906, luova studio  ,"['luova', 'studio']",luova studio,2
+3516aef9ccbc2b89bd30fbbe0075292a,,2018-12-26 14:33:24,13779_ideal house design pte ltd,Misc,one off,7583.8,-46.6555376,113.757, ideal house design  ,"['ideal', 'house', 'design']",ideal house design,2
+b67d909e9a6c20ee283a7ca6f9195e67,,2022-05-06 15:00:13,64212_WL Design & Build Pte Ltd,Misc,one off,11375.7,7.3714536,295.7682, wl design  build  ,"['wl', 'design', 'build']",wl design build,2
+79d74ef608b9b05340e07db2d17e28c0,,,18610_Magic Lifestyle Pte Ltd,Misc,one off,758.38,4.55028,4.55028, magic lifestyle  ,"['magic', 'lifestyle']",magic lifestyle,4
+7a459ab5e03a95fc7bb83a602f63d52a,,2024-09-11 04:11:44,239649_MH GLOBAL PTE. LTD.,Misc,one off,862.65725,7.9857414,19.4069442, mh global  ,"['mh', 'global']",mh global,1
+769ce8e116d41cad4b0242c9d8c33dda,,2022-07-19 10:00:10,71044_LARVOTTO INTERIOR DESIGN PTE. LTD. f.k.a LARVO INTERIOR DESIGN PTE. LTD.,Misc,one off,2218.2615,18.7092346,49.9089878, larvotto interior design   fka larvo interior design  ,"['larvotto', 'interior', 'design', 'fka', 'larvo', 'interior', 'design']",larvotto interior design fka larvo interior design,2
+81839c1225b4d2504eeed20365e500c4,,2022-11-03 10:00:20,73549_TRUEHOPE INTERIOR DESIGN PRIVATE LIMITED,Misc,one off,2911.04163,26.3840402,65.5012806, truehope interior design  ,"['truehope', 'interior', 'design']",truehope interior design,2
+a3a73f27c5d2d32f4c6d06a8bdf82f0a,,2023-10-11 04:04:47,144285_1M Interior Design Pte Ltd,Misc,one off,6370.392,-0.4626118,143.33382, m interior design  ,"['interior', 'design']",interior design,2
+c46cc85fd9bf34b048047b3667af32b6,,,248312_Verz Design Pte Ltd ,Misc,one off,2066.5855,59.9347714,59.9347714, verz design   ,"['verz', 'design']",verz design,2
+085fc945d121e6ac1fc713fbd072b4a7,,2021-11-22 04:01:11,51240_ORANGE DESIGN AND RENOVATION PTE. LTD.,Misc,one off,2778.70432,-9.745183,51.4029964, orange design and renovation  ,"['orange', 'design', 'renovation']",orange design renovation,2
+f69397dc0bd5179801675ee3eed62b36,,2024-09-27 04:09:04,244225_Bliss Pilates Studio Pte. Ltd.,Misc,one off,379.19,1.7594416,6.82542, bliss pilates studio  ,"['bliss', 'pilates', 'studio']",bliss pilates studio,2
+bf40a089f4751ecbbe996e950aba0582,,2021-03-17 23:00:44,40761_JACKSON GLOBAL PTE LTD,Misc,one off,4095.252,1.7366902,106.476552, jackson global  ,"['jackson', 'global']",jackson global,1
+a01671bf7d6664ec00f437e53633b9b3,,,15951_KHORHE STUDIO,Misc,one off,193.412381568,6.3817373648,6.3817373648, khorhe studio,"['khorhe', 'studio']",khorhe studio,2
+cfb437075d7256cbf69854e75d119363,,2021-08-27 23:07:08,49193_EL ARTE Design pte. Ltd. ,Misc,one off,379.19,1.51676,7.015015, el arte design   ,"['el', 'arte', 'design']",el arte design,2
+c04b6b0ba764703ea43dab12ce44b503,,2022-11-01 10:00:10,80607_D&R Design Reno Team Pte Ltd,Misc,one off,5801.607,7.2728642,150.841782, dr design reno team  ,"['dr', 'design', 'reno', 'team']",dr design reno team,2
+c985b46706ef7df9d3dea1ef0e9a53d3,,2023-09-25 13:24:07,141605_Rynee Tan Makeup Studio,Misc,one off,363.8252212,0.1971788,17.177307, rynee tan makeup studio,"['rynee', 'tan', 'makeup', 'studio']",rynee tan makeup studio,2
+d9e07da4e520e1a055b270d3ef8d633c,,2024-09-19 14:00:45,226275_eLEAD Global Limited,Misc,one off,1056.309583,7.052934,30.752309, elead global ,"['elead', 'global']",elead global,1
+8b2960e4f09b8919f0516d34576a0e6b,,2024-10-08 10:06:14,246719_UNDERRATED STUDIO PTE LTD,Misc,one off,5719.70196,27.1651716,101.812515, underrated studio  ,"['underrated', 'studio']",underrated studio,2
+2ee39cbebdfca8f65e76390cb3db761f,,,11663_Lifestyle Bike N Skate Pte Ltd,Misc,one off,3503.7156,91.0966056,91.0966056, lifestyle bike n skate  ,"['lifestyle', 'bike', 'n', 'skate']",lifestyle bike n skate,4
+2d770870fe1077830b7da61a37ec8e05,,,173017_ETR GLOBAL GROUP PTE LTD,Misc,one off,4550.28,102.5405598,102.5405598, etr global group  ,"['etr', 'global', 'group']",etr global group,1
+60df2cc6b6e2e1a04a49bf1dc396c9df,,2020-08-11 07:00:07,33475_Albedo Design Pte Ltd,Misc,one off,11370.3685886,5.5665092,255.8319092, albedo design  ,"['albedo', 'design']",albedo design,2
+20cd12b2576acb656d201fd84bf649a8,,2023-11-10 10:00:12,149290_luen studio,Misc,one off,219.3462474,1.3195812,12.9152114, luen studio,"['luen', 'studio']",luen studio,2
+599f7e31d328f4215545658810cd06f3,,2022-03-31 04:02:25,61296_Goodmen Global Pte Ltd,Misc,one off,758.38,3.109358,21.99302, goodmen global  ,"['goodmen', 'global']",goodmen global,1
+dc3801843a88766a69e2b7400d1e2c26,,2020-12-18 10:00:16,37560_Salt Studio Pte Ltd,Misc,one off,4686.7884,-6.1504618,105.452739, salt studio  ,"['salt', 'studio']",salt studio,2
+74a49e1c79b3538393a50627c9873722,,2022-10-17 10:00:08,79175_DESIGN INFUSION PTE. LTD.,Misc,one off,6431.517428,8.076747,167.22279, design infusion  ,"['design', 'infusion']",design infusion,2
+f1fd454e705fcbc66664faba75a653c1,,2024-10-04 13:33:02,246675_Catalyst Global Coaching Pty Ltd,Misc,one off,3753.981,-14.447139,101.2892328, catalyst global coaching pty ,"['catalyst', 'global', 'coaching', 'pty']",catalyst global coaching pty,1
+75c4a1f528aa6149f1abdbd5073c16cb,,2021-08-10 23:06:58,48975_Anhans Interior Design Pte Ltd,Misc,one off,24912.783,108.0919014,460.8902774, anhans interior design  ,"['anhans', 'interior', 'design']",anhans interior design,2
+8db6312165ec8ae12437c425478728c3,,2021-11-12 15:00:28,52112_VISTA INTERIOR DESIGN PTE. LTD.,Misc,recurring,3791.9,16.343089,70.15015, vista interior design  ,"['vista', 'interior', 'design']",vista interior design,2
+5495bbe7e1f65381569e9957a14cbf57,,,250383_I DZIGN STUDIO,Misc,one off,7631.729616,136.2353832,136.2353832, i dzign studio,"['dzign', 'studio']",dzign studio,2
+969587f6757d41d387afe5b88ae8da93,,2019-11-15 09:24:04,23365_The Interarch Design Pte Ltd,Misc,one off,3761.5648,17.2228098,97.8006848, the interarch design  ,"['interarch', 'design']",interarch design,2
+a55c1a449e54ff057eac9a3d74d5868f,,2022-09-19 10:00:23,76957_Groove Interior Design PTE LTD,Misc,one off,2773.4563304,25.1251294,62.3995064, groove interior design  ,"['groove', 'interior', 'design']",groove interior design,2
+bf4a4d1057e1c4aecb9f5eb29f0a4e09,,2020-11-19 10:00:16,36587_Chew Vision Design Pte Ltd,Misc,one off,4419.45945,-5.8167746,99.4387856, chew vision design  ,"['chew', 'vision', 'design']",chew vision design,2
+d1e08b989f11dfbf72654a0222d46d74,,2020-07-29 04:00:43,32170_HFH DESIGN & BUILD PTE. LTD.,Misc,one off,2123.464,3.7084782,55.210064, hfh design  build  ,"['hfh', 'design', 'build']",hfh design build,2
+fa55913cd4adc084b84be5ecfbda9e67,,,80383_MESH WERK STUDIO PTE. LTD.,Misc,one off,45502.8,773.5476,773.5476, mesh werk studio  ,"['mesh', 'werk', 'studio']",mesh werk studio,2
+b8aab8866e51c1a2567cf69f37ed673f,,2022-11-28 15:00:31,82928_A Blue Cube Design Private Limited,Misc,one off,5915.364,2.7529194,133.09569, a blue cube design  ,"['blue', 'cube', 'design']",blue cube design,2
+b2808427dd5e22e5dcc9b0d31b8be494,,,243738_QUANTEDGE GLOBAL FUND (OFFSHORE),Misc,one off,97307.0325066,99108.245677,99288.8387064, quantedge global fund offshore,"['quantedge', 'global', 'fund', 'offshore']",quantedge global fund offshore,1
+b3ec122b5009de46c160948538c25eca,,2023-03-23 04:05:47,101185_THE LOFT STUDIO PTE. LTD.,Misc,one off,417.109,-0.0834218,9.3887444, the loft studio  ,"['loft', 'studio']",loft studio,2
+63b0d296264dc26316f4bfcc2a5ea0b1,,,77504_GLOBAL ARTWORK & DESIGN PTE LTD,Misc,one off,33654.4624164,757.2272624,757.2272624, global artwork  design  ,"['global', 'artwork', 'design']",global artwork design,1
+ebbb465689d246a279631213f448a4af,,2022-08-15 07:00:55,73978_I-MAX DESIGN,Misc,one off,2942.5144,24.8596964,66.206574, imax design,"['imax', 'design']",imax design,2
+9ca590aa7641a340d401276994e41a01,,,230187_Global Travel Pte Ltd,Misc,one off,2247.07994,40.4444054,40.4444054, global travel  ,"['global', 'travel']",global travel,1
+1a286fdf9fc472eec59713d00959ae29,,2023-02-21 10:02:11,96463_Jen Global Pte Ltd,Misc,one off,601.509097,2.6770814,10.8296664, jen global  ,"['jen', 'global']",jen global,1
+7f428b04fffbe8b83304edaadfea32a1,,2022-05-04 07:00:34,57339_EDVENTURE STUDIO,Misc,one off,1246.77672,14.7580748,32.4131612, edventure studio,"['edventure', 'studio']",edventure studio,2
+cfd768a358df699a97b7a1d1834542c1,,2024-07-17 11:36:03,223754_Design Lighting,Misc,one off,55.74093,-0.1668436,6.8557552, design lighting,"['design', 'lighting']",design lighting,2
+aaef14dea3ed260cd80286770f11bf3b,,2022-02-14 07:00:28,58064_global aircon solution,Misc,one off,1440.922,17.0787176,37.463972, global aircon solution,"['global', 'aircon', 'solution']",global aircon solution,1
+0985582aca69bb1ef6b688a211bef768,,,19523_EASTMENT GLOBAL SOLUTIONS,Misc,one off,11375.7,409.5252,409.5252, eastment global solutions,"['eastment', 'global', 'solutions']",eastment global solutions,1
+ed3269a358b4c0d7a2b6d47abd2d0f6d,,2023-10-10 07:00:57,144181_IMP STUDIO,Misc,one off,646.13976,-0.530866,14.5381446, imp studio,"['imp', 'studio']",imp studio,2
+f3bf4a87a4f9d35f75b5ce23d2d8d547,,2019-05-14 06:31:32,17198_Absolook Design Studio Pte Ltd,Misc,one off,1052.366007,4.6033666,27.3623504, absolook design studio  ,"['absolook', 'design', 'studio']",absolook design studio,2
+75697e833f0bb0cb4287b0dccb57711e,,2024-06-13 15:01:26,158546_Mainline Global Logistic Pte Ltd,Misc,one off,1360.8143206,6.635825,24.495674, mainline global logistic  ,"['mainline', 'global', 'logistic']",mainline global logistic,1
+f2b39fb80059a9bb33a339fa6caa53b5,,,64628_Lifestyle Rethink Pte Ltd,Misc,one off,1319.5812,21.1132992,21.1132992, lifestyle rethink  ,"['lifestyle', 'rethink']",lifestyle rethink,4
+dcffd775f1ec6c84126b410ee2a1ad68,,2023-12-20 10:00:20,159271_PRESTIGE DESIGN CONSULTANT PTE LTD,Misc,one off,7507.962,5.1494002,108.865449, prestige design consultant  ,"['prestige', 'design', 'consultant']",prestige design consultant,2
+68f279a7a21b1c83bcc13d38224355a5,,,26339_E&S DESIGN & BUILT,Misc,one off,5445.1684,87.1226944,87.1226944, es design  built,"['es', 'design', 'built']",es design built,2
+8422e9a9d2923dd6ff3d6c41c00993b1,,,30511_Global Asia Printings Pte Ltd,Misc,one off,265.433,6.901258,6.901258, global asia printings  ,"['global', 'asia', 'printings']",global asia printings,1
+e0f2a4f9257bf8fb7ba197ac254c1976,,2024-08-15 04:19:59,232165_ATHENA GLOBAL EMPLOYMENT PTE LTD,Misc,one off,15.091762,2.0021232,2.578492, athena global employment  ,"['athena', 'global', 'employment']",athena global employment,1
+4c12a7b2f66687ef3bb2867abefcb5e8,,2024-01-15 06:18:07,164911_The Movement Studio,Misc,one off,533.89952,6.6813278,13.878354, the movement studio,"['movement', 'studio']",movement studio,2
+b8bbe8edc0810e4d4d97e85dcc0a19fe,,2022-09-12 16:36:07,76376_KONMARI STUDIO,Misc,one off,15091.762,19.1035922,392.385812, konmari studio,"['konmari', 'studio']",konmari studio,2
+793a28b289071c41caf99cb23947fb91,,2022-05-23 04:02:27,65721_CDM Lifestyle Pte Ltd,Misc,one off,2654.33,22.4177128,59.722425, cdm lifestyle  ,"['cdm', 'lifestyle']",cdm lifestyle,4
+560169573bff3b1048bfff08511f5dd5,,2024-08-19 06:54:06,27797_The One Property Global Sdn Bhd,Misc,one off,504.440400576,0.71222802672,5.04440400576, the one property global  ,"['one', 'property', 'global']",one property global,1
+1cdea95e5c8944ca59221aabaa7ebf60,,2023-05-25 15:00:30,116042_Monti Studio by Alinea Collective Pte Ltd,Misc,one off,834.218,3.7615648,15.015924, monti studio by alinea collective  ,"['monti', 'studio', 'alinea', 'collective']",monti studio alinea collective,2
+37698299a7c871561ac1a8f196a2e1b6,,2019-06-24 04:04:43,15155_MILLEN GLENFIELD DESIGN,Misc,one off,1365.084,2.27514,35.492184, millen glenfield design,"['millen', 'glenfield', 'design']",millen glenfield design,2
+f63cd201023bf825c3cff6604630249b,,2023-10-09 04:15:47,114046_THE SUBURBS STUDIO,Misc,one off,364.0224,3.223115,8.190504, the suburbs studio,"['suburbs', 'studio']",suburbs studio,2
+6453768458f31941b0d10fbe0d9be837,,2022-01-28 07:00:16,55136_CHOP HENG LONG INTERIOR DESIGN & RENOVATION,Misc,recurring,318.5196,1.099651,5.7333528, chop heng long interior design  renovation,"['chop', 'heng', 'long', 'interior', 'design', 'renovation']",chop heng long interior design renovation,2
+7258f3646607f87a698cda216dc30e6f,,2024-08-23 14:18:03,234444_CANOPEA DESIGN,Misc,one off,6583.5422828,-21.955101,144.0997838, canopea design,"['canopea', 'design']",canopea design,2
+2a8604a02008a8a3139cd4edcfacec6a,,,212531_INSPIRATION STUDIO PTE. LTD.,Misc,one off,1365.084,30.71439,30.71439, inspiration studio  ,"['inspiration', 'studio']",inspiration studio,2
+9040c00cd4e5ffcc8493933b4f6452d9,,,37539_Northwest Interior Design,Misc,one off,14172.60544,318.8836224,318.8836224, northwest interior design,"['northwest', 'interior', 'design']",northwest interior design,2
+1b57955213e53bd81f7a554043a92918,,2021-06-22 04:01:08,46506_Design Cube Pte Ltd,Misc,one off,12116.333908,102.7832414,272.6148586, design cube  ,"['design', 'cube']",design cube,2
+a050f0f0759e2205068748e7f863ab82,,2021-06-01 23:03:54,42374_EIKA FURNITURE DESIGN AND CONSTRUCTION,Misc,one off,1207.34096,10.124373,27.1651716, eika furniture design and construction,"['eika', 'furniture', 'design', 'construction']",eika furniture design construction,2
+29651344ae46e8a34af3d0ad99aab646,,,18164_INTERIOR SIGNATURE STUDIO PTE LTD,Misc,one off,6977.096,166.236896,166.236896, interior signature studio  ,"['interior', 'signature', 'studio']",interior signature studio,2
+552417897e3f8c8b045be8dcd14757aa,,,151597_ JMS ROGERS GLOBAL PTE. LTD.,Misc,one off,7583.8,136.5084,136.5084,  jms rogers global  ,"['jms', 'rogers', 'global']",jms rogers global,1
+4738764b47062ff0c8254d523fb4e5e9,,2024-03-21 04:05:55,179820_ROOMA PTE. LTD. f.k.a DWELL LIFESTYLE PRIVATE LIMITED,Misc,one off,606.704,5.5210064,13.65084, rooma   fka dwell lifestyle  ,"['rooma', 'fka', 'dwell', 'lifestyle']",rooma fka dwell lifestyle,4
+3e82909a9fe8a1368e38c23aa4f427a5,,,32278_Premier Global Corporate Services Pte. Ltd.,Misc,one off,1895.95,54.98255,54.98255, premier global corporate services  ,"['premier', 'global', 'corporate', 'services']",premier global corporate services,1
+7834ac694d08092a1afb387b32e47301,,2022-12-22 15:00:18,80574_ELK DESIGN,Misc,one off,834.218,0.1289246,18.769905, elk design,"['elk', 'design']",elk design,2
+12bce9bb249fc3d6fdd90206281861da,,2023-09-06 04:08:45,138674_MY BALLET STUDIO PTE. LTD.,Misc,one off,326.1034,1.4257544,5.8698612, my ballet studio  ,"['ballet', 'studio']",ballet studio,2
+06cddbb37ce354f66a9cfc9d1f6281a9,,,22328_RIZZENTE INTERIOR DESIGN,Misc,one off,1516.76,39.43576,39.43576, rizzente interior design,"['rizzente', 'interior', 'design']",rizzente interior design,2
+9f9dc8addac3a8218185974e6c48381a,,2021-06-30 23:02:16,47105_cross studio pte ltd,Misc,one off,7583.8,-55.323821,45.5028, cross studio  ,"['cross', 'studio']",cross studio,2
+df1ef77883fa6e63be8b7718d53a3502,,2021-11-24 10:00:11,53703_Simplicity Design Pte Ltd,Misc,one off,3791.9,16.343089,70.15015, simplicity design  ,"['simplicity', 'design']",simplicity design,2
+b9f30feaf16613a16eb0ec62c003c074,,2024-01-29 07:48:04,167519_Lim Leong Seng Studio,Misc,one off,4322.766,12.3767616,69.164256, lim leong seng studio,"['lim', 'leong', 'seng', 'studio']",lim leong seng studio,2
+e235fcfd08595cec606aad6336666d37,,,36135_PROVERBS STUDIO PTE. LTD.,Misc,one off,758.38,17.06355,17.06355, proverbs studio  ,"['proverbs', 'studio']",proverbs studio,2
+78a533294b3a8a1382173333804bfcce,,2024-10-02 15:01:14,245743_AURA STUDIO PHOTOGRAPHY PTE. LTD.,Misc,one off,1204.30744,11.2088564,27.0969174, aura studio photography  ,"['aura', 'studio', 'photography']",aura studio photography,2
+17d202e1b74a156ad79642df197bcc31,,,16049_STEP STUDIO f.k.a S.T.E.P. - SCHOOL OF THE ELITE PERFORMERS,Misc,one off,103.13968,2.6846652,2.6846652, step studio fka step  school of the elite performers,"['step', 'studio', 'fka', 'step', 'school', 'elite', 'performers']",step studio fka step school elite performers,0
+12b00084908c28a61280deb71a2a038a,,2020-06-01 09:45:52,30891_Singapore Carpentry Studio Design Pte. Ltd.,Misc,one off,7583.8,14.0224462,197.1788,  carpentry studio design  ,"['carpentry', 'studio', 'design']",carpentry studio design,2
+32b88101e3e0f2b089a2651e8ef58345,,2024-08-12 13:15:04,229637_Parkland Global Sdn Bhd,Misc,one off,4308.3264448,26.2247804,168.9215612, parkland global  ,"['parkland', 'global']",parkland global,1
+d79efd28520e62afa9c9fa692fdc96b0,,2024-08-12 02:12:09,230372_CA Design,Misc,one off,4020.7715002,-17.859849,92.7195388, ca design,"['ca', 'design']",ca design,2
+c3a6560207365b9007a89f58bd941948,,2022-08-03 10:00:17,72643_COWBOY DESIGN PTE LTD,Misc,one off,2597.4515,30.8964012,67.533739, cowboy design  ,"['cowboy', 'design']",cowboy design,2
+a8e1e18f8377534293f9fc06804ab99c,,2024-03-06 10:00:27,175461_Artgrain Studio Pte Ltd,Misc,one off,288.1844,-0.303352,6.484149, artgrain studio  ,"['artgrain', 'studio']",artgrain studio,2
+d26d3cc4fad79e6d94e4c6851ecacc65,,2018-08-07 07:03:15,11053_Sleep Trust Studio,Misc,one off,2881.844,13.119974,74.927944, sleep trust studio,"['sleep', 'trust', 'studio']",sleep trust studio,2
+5de278afd1871da900dcd9ba87d8cb9e,,2019-06-27 10:13:04,19019_Design 4 Space Pte Ltd,Misc,one off,7583.8,14.0224462,197.1788, design  space  ,"['design', 'space']",design space,2
+2a15592efd9cfc34252b3183970100c7,,,9756_Pline Studio,Misc,one off,1516.76,24.26816,24.26816, pline studio,"['pline', 'studio']",pline studio,2
+10fe1cf248f0b62b3148b8a383907d90,,2018-11-14 04:01:19,12930_At-Sunrice Global Chef Academy Pte Ltd,Misc,one off,1866.37318,8.3952666,48.5287362, atsunrice global chef academy  ,"['atsunrice', 'global', 'chef', 'academy']",atsunrice global chef academy,1
+79a5b7e37578f552884209c1d0932322,,2024-06-14 04:12:23,211813_FRIENDS STUDIO PTE. LTD.,Misc,one off,250.2350648,2.2220534,5.6271796, friends studio  ,"['friends', 'studio']",friends studio,2
+b48e2d8812294d039675bd0da04f5d8e,,2022-06-01 07:00:27,66959_YUHENG DESIGN PTE LTD,Misc,one off,151.676,0.8190504,4.398604, yuheng design  ,"['yuheng', 'design']",yuheng design,2
+0ef2b083a87248a0432911d4e6943ab8,,2022-09-12 07:00:38,76375_LEPLAY DESIGN,Misc,one off,1516.76,-5.1797354,15.015924, leplay design,"['leplay', 'design']",leplay design,2
+9ff7871879d727fedabde4f2e46dc96c,,2024-08-07 04:09:07,229994_Florist D (under D lifestyle Pte Ltd),Misc,one off,1327.165,15.3420274,33.8464994, florist d under d lifestyle  ,"['florist', 'lifestyle']",florist lifestyle,4
+720df57951419dba0a79c5d7f9b3cd91,,2019-02-25 03:38:14,15176_Imposed Design,Misc,one off,3944.33438,-7.659638,87.3881274, imposed design,"['imposed', 'design']",imposed design,2
+74312176378e8828fd6050518a78c03c,,2018-02-06 08:27:18,6758_Simply Works Design,Misc,one off,1918.7014,-18.5954776,27.1348364, simply works design,"['simply', 'works', 'design']",simply works design,2
+fbe8bd19d58fa57d2f8b1b6eec1034ff,,2022-12-29 04:01:32,84097_AVA GLOBAL MAINTENANCE SERVICES PTE LTD,Misc,one off,273.0168,1.6760198,7.9174872, ava global maintenance services  ,"['ava', 'global', 'maintenance', 'services']",ava global maintenance services,1
+52ebf36a04c7c0c8a4a8de35285d4936,,2021-10-27 07:00:10,52304_Inclover Design Pte Ltd,Misc,one off,12558.7728,5.574093,326.5280928, inclover design  ,"['inclover', 'design']",inclover design,2
+5a8e9bd7a0fcd72d68b7f4f63bd5c608,,,232251_INTRIX LIFESTYLE SDN BHD,Misc,one off,922.2128314,952.9878918,965.0613014, intrix lifestyle  ,"['intrix', 'lifestyle']",intrix lifestyle,4
+f3d1d62509b9797d2b9cff47dc355156,,2019-06-18 15:00:28,18561_Mount Studio Pte Ltd,Misc,one off,60.6704,0.9631426,2.578492, mount studio  ,"['mount', 'studio']",mount studio,2
+3073f012711c4a01365c0c6a787b6431,,,240450_B.O.B. DESIGN,Misc,one off,1706.355,38.3967794,38.3967794, bob design,"['bob', 'design']",bob design,2
+fff569af389c2ede69df27153f7dbb0f,,,233364_Leads Global Sg,Misc,one off,3791.9,85.31775,85.31775, leads global sg,"['leads', 'global', 'sg']",leads global sg,1
+e278909b957cb422830919851ea5bdbe,,2023-03-22 04:04:26,93569_Rawr Global Private Limited,Misc,one off,894.8884,0.1592598,20.134989, rawr global  ,"['rawr', 'global']",rawr global,1
+b028ff1dcdfa75222747139bfea499cb,,2022-11-08 04:07:54,81110_MODERN SIX DESIGN PTE. LTD.,Misc,one off,4550.28,2.047626,102.3813, modern six design  ,"['modern', 'six', 'design']",modern six design,2
+f597a10fb0c509ef83ed018face710a8,,2021-07-14 23:03:31,47780_CHENGYI INTERIOR DESIGN PTE LTD,Misc,one off,2578.492,-12.8469572,43.834364, chengyi interior design  ,"['chengyi', 'interior', 'design']",chengyi interior design,2
+2f619c1285dcd3f2b8019535fc78817d,,2023-04-19 04:08:22,107802_Block A Stalk Design Pte Ltd,Misc,one off,11375.7,-37.0999496,212.3464, block a stalk design  ,"['block', 'stalk', 'design']",block stalk design,2
+3408e205e6d70cca27245bf035538b3e,,2024-06-04 07:06:17,208514_Global Travel Experts Pte Ltd.,Misc,one off,606.704,7.6748056,15.774304, global travel experts  ,"['global', 'travel', 'experts']",global travel experts,1
+947c481e30c4776790535c1024b5bc46,,2020-08-31 07:00:07,34229_C11 Design Pte Ltd,Misc,one off,4209.009,16.2824186,109.434234, c design  ,"['c', 'design']",c design,2
+3cdaf7edc90004f10aa7b0f688a24064,,2024-06-10 04:09:46,210599_PINE ON PAPER STUDIO PTE. LTD,Misc,one off,748.103951,6.9164256,16.836036, pine on paper studio  ,"['pine', 'paper', 'studio']",pine paper studio,2
+bafc6a2b4909b303cf756da2a919abb5,,2021-08-06 23:01:48,48803_HIP DESIGN STUDIO PTE LTD,Misc,one off,370.08944,0.0530866,9.6238422, hip design studio  ,"['hip', 'design', 'studio']",hip design studio,2
+412e919cf2188664de58b9f3940c474c,,2023-12-15 15:01:02,158035_FIRST STEP ELEVATOR,Misc,one off,13482.176288,125.398133,303.352, first step elevator,"['first', 'step', 'elevator']",first step elevator,0
+1536b0fe9d204d3d27094962a53c4ec3,,2022-08-25 05:30:06,74932_Aimys Global Enterprise,Misc,one off,11.8003928,2.1007126,7.7278922, aimys global enterprise,"['aimys', 'global', 'enterprise']",aimys global enterprise,1
+c154dfe9b9f62d5907a97be497f473a0,,2020-01-22 15:01:26,26114_MHM Global,Misc,one off,5491.0731414,25.2768054,142.765035, mhm global,"['mhm', 'global']",mhm global,1
+440991815ba526cd2be9d44486bda495,,,94031_A Step Ahead Education,Misc,one off,142.0976606,152.282704,158.5090038, a step ahead education,"['step', 'ahead', 'education']",step ahead education,0
+461ff16864d21ccb8d38053ed7d7b9c7,,2022-09-15 15:00:11,76714_Clover Global Pte Ltd,Misc,one off,1254.5273636,1.4864248,32.6179238, clover global  ,"['clover', 'global']",clover global,1
+71960d06f066cb9ec0784d0adc8cd5cc,,2022-12-01 07:00:12,83170_D-XUAN DESIGN,Misc,one off,1583.800792,0.5156984,35.6362762, dxuan design,"['dxuan', 'design']",dxuan design,2
+e5a2bab8e7d4e3acdcbd3c85926fc840,,2021-11-29 04:01:51,54003_Artnexus Design Pte Ltd,Misc,one off,584.255952,1.858031,16.9422092, artnexus design  ,"['artnexus', 'design']",artnexus design,2
+a584cf9a36ceb255b23b34ff5f1e1597,,2024-10-01 04:21:41,223764_Nomads Design Studio,Misc,recurring,7583.8,41.3013748,140.3003, nomads design studio,"['nomads', 'design', 'studio']",nomads design studio,2
+75a840e47f9283f6bfaf696a80b394dd,,,28761_Shed Studio (Pte. Ltd.),Misc,one off,3033.52,68.2542,68.2542, shed studio  ,"['shed', 'studio']",shed studio,2
+b7869b326d2bd9dbe8afdcb1dbd123a4,,2024-02-26 10:00:15,173216_Active Global Specialised Caregivers Pte Ltd,Misc,one off,2262.24754,-6.9846798,50.9024656, active global specialised caregivers  ,"['active', 'global', 'specialised', 'caregivers']",active global specialised caregivers,1
+71d2973c2f37d592f2661b74f1a52a9e,,2024-08-06 04:20:24,229649_THEORY OF TWO STUDIO PTE. LTD,Misc,one off,150.15924,2.1386316,4.3531012, theory of two studio  ,"['theory', 'two', 'studio']",theory two studio,2
+4d7c141cac3b5534ea192d3d9e222ea5,,2020-04-13 10:05:30,29062_Amanda Pang Design Co Pte Ltd,Misc,one off,7583.8,3.6098888,170.6355, amanda pang design co  ,"['amanda', 'pang', 'design', 'co']",amanda pang design co,2
+9399adaad885a7b531d32e921fae71af,,2024-05-27 10:00:47,202449_Fuse Design Pte Ltd,Misc,one off,16032.304876,35.871374,416.843567, fuse design  ,"['fuse', 'design']",fuse design,2
+033bf87e6f76546282e59fd5d315df54,,2022-01-12 04:01:46,56123_MyDesign Lifestyle Pte Ltd,Misc,one off,985.894,2.6998328,16.760198, mydesign lifestyle  ,"['mydesign', 'lifestyle']",mydesign lifestyle,4
+d90a3f15df14e56bdb408d02c7618677,,2024-07-08 05:05:38,220783_The Curtains Design Specialist Pte. Ltd.,Misc,one off,439.8604,4.0118302,9.896859, the curtains design specialist  ,"['curtains', 'design', 'specialist']",curtains design specialist,2
+29bf941c50e2ca0cce397acc23658e27,,2023-03-02 04:06:05,97025_JBL Global Ventures Pte Ltd,Misc,one off,10715.9094,49.8710688,192.8863692, jbl global ventures  ,"['jbl', 'global', 'ventures']",jbl global ventures,1
+10735462c079120f18b1315207a22537,,2023-07-20 15:00:28,130185_EHKA Studio LLP,Misc,one off,2654.33,9.9044428,45.12361, ehka studio ,"['ehka', 'studio']",ehka studio,2
+c22dcd8c523776a90a57d176c22db1eb,,2022-10-13 04:02:22,78787_STUDIO SUPER SAFARI,Misc,one off,3033.52,15.5240386,56.12012, studio super safari,"['studio', 'super', 'safari']",studio super safari,2
+27eaf1bf53b119b81f27212b9aa293c1,,2022-10-03 10:00:11,78007_Playground Design Pte Ltd,Misc,one off,6806.08131,85.355669,176.9603892, playground design  ,"['playground', 'design']",playground design,2
+f805b998d0fe3d73fe2159355d61efc5,,2024-02-05 15:01:24,169820_OP Studio,Misc,one off,10920.672,47.6338478,191.11176, op studio,"['op', 'studio']",op studio,2
+d6bb6e4336e3b4ee6af7602386cc1f20,,2022-07-13 04:02:53,70616_Clover Studio LLP,Misc,one off,257.8492,2.0627936,5.801607, clover studio ,"['clover', 'studio']",clover studio,2
+cd3beca79a9284076610492fc4ba4cc5,,2022-05-17 04:08:58,65138_Design Lab Interior Pte Ltd,Misc,one off,1365.084,8.0084928,39.587436, design lab interior  ,"['design', 'lab', 'interior']",design lab interior,2
+86d01389a674137d4b7387f56a0fc0ad,,2022-10-13 10:00:09,78678_2ND PHASE DESIGN,Misc,one off,1516.76,13.6811752,34.1271, nd phase design,"['nd', 'phase', 'design']",nd phase design,2
+23b9d38cabe711c30041780a57270de0,,2019-10-08 16:48:07,22382_Third Avenue Studio Pte. Ltd.,Misc,one off,6682.5715432,30.828147,173.744858, third avenue studio  ,"['third', 'avenue', 'studio']",third avenue studio,2
+ef54bc032bdaef1085988564162b5db3,,2024-07-11 15:00:45,222161_Drapes Studio,Misc,one off,1467.9127442,-0.9934778,33.027449, drapes studio,"['drapes', 'studio']",drapes studio,2
+a6ff2b6d50df2836a9504a80e9f4eb4e,,2022-10-18 04:09:21,79156_DESIGN CHAPTERZ CONCEPT PTE. LTD.,Misc,one off,98.5894,0.7735476,2.2220534, design charz concept  ,"['design', 'charz', 'concept']",design charz concept,2
+8d183ea2ebb3c71a198d09dc7394d9e3,,2022-09-29 09:15:06,77760_BASIC IMAGE INTERIOR DESIGN,Misc,one off,5005.308,2.2827238,112.61943, basic image interior design,"['basic', 'image', 'interior', 'design']",basic image interior design,2
+80ae88d0492a8db05ed38faeb3a72101,,2024-08-26 15:01:32,234800_Sun Global Pte. Ltd.,Misc,one off,5833.45896,-74.7838518,0.0, sun global  ,"['sun', 'global']",sun global,1
+d9076f5edbe6d767817d88190431f9c5,,2020-07-07 04:00:42,32341_DESIGN INK PTE. LTD.,Misc,one off,1744.274,-8.2739258,30.183524, design ink  ,"['design', 'ink']",design ink,2
+1e200ca5fe9728234b625cad5d2133f4,,,236540_Lionheart Studio Pte Ltd,Misc,one off,1294.17547,29.121792,29.121792, lionheart studio  ,"['lionheart', 'studio']",lionheart studio,2
+e193adbd145b463d6e31ff251319afd6,,2024-08-29 15:15:03,236301_HOM STUDIO DB,Misc,one off,1143.0606712,-8.9261326,31.9505494, hom studio db,"['hom', 'studio', 'db']",hom studio db,2
+8fb3f018f92ebeeeb7ec03b39ef226de,,2021-01-12 04:03:06,38331_Royal Lifestyle Pte Ltd,Misc,one off,743.2124,-0.9555588,16.722279, royal lifestyle  ,"['royal', 'lifestyle']",royal lifestyle,4
+b23f050e5b6d482a7fde82fda37b388c,,2023-10-20 10:01:27,145551_POP Studio,Misc,one off,235.0978,3.374791,6.8178362, pop studio,"['pop', 'studio']",pop studio,2
+bf2a6bd81293665b7e2235283f846fc4,,2021-05-05 23:01:44,44296_Home Access Design Pte.Ltd ,Misc,one off,230.092492,1.782193,5.1797354, home access design  ,"['home', 'access', 'design']",home access design,2
+5579cc57007566439625fa23d7b46b33,,2019-12-09 05:02:24,23944_KW Studio Photography,Misc,one off,2184.1344,-4.9825566,41.6198944, kw studio photography,"['kw', 'studio', 'photography']",kw studio photography,2
+a7dd8bd7d07be2ea162bee8f3d0157c1,,2021-06-22 04:01:09,45272_White Artz Design,Misc,one off,627.93864,7.3790374,16.3279214, white artz design,"['white', 'artz', 'design']",white artz design,2
