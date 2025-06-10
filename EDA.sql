@@ -12,8 +12,10 @@ select
 from
     ADM.TRANSACTION.CARDUP_PAYMENT_DENORM_T
 where
-    CARDUP_PAYMENT_PAYMENT_TYPE = 'Misc'
+    CARDUP_PAYMENT_STATUS NOT IN ('Payment Failed', 'Cancelled', 'Refunded', 'Refunding')
+    and CARDUP_PAYMENT_PAYMENT_TYPE = 'Misc'
     and CARDUP_PAYMENT_USD_AMT is not null
     and CARDUP_PAYMENT_USER_TYPE = 'consumer'
-    and DATE_TRUNC('month', DATE(CARDUP_PAYMENT_SUCCESS_AT_UTC_TS)) >= '2023-10-01';
+    and DATE_TRUNC('month', DATE(CARDUP_PAYMENT_SUCCESS_AT_UTC_TS)) >= '2024-01-01'
+    and DATE_TRUNC('month', DATE(CARDUP_PAYMENT_SUCCESS_AT_UTC_TS)) <= '2024-03-01';
 
