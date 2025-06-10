@@ -16,6 +16,19 @@ where
     and CARDUP_PAYMENT_PAYMENT_TYPE = 'Misc'
     and CARDUP_PAYMENT_USD_AMT is not null
     and CARDUP_PAYMENT_USER_TYPE = 'consumer'
-    and DATE_TRUNC('month', DATE(CARDUP_PAYMENT_SUCCESS_AT_UTC_TS)) >= '2024-01-01'
-    and DATE_TRUNC('month', DATE(CARDUP_PAYMENT_SUCCESS_AT_UTC_TS)) <= '2024-03-01';
+    and DATE_TRUNC('month', DATE(CARDUP_PAYMENT_SUCCESS_AT_UTC_TS)) = '2024-05-01';
+
+
+--Get list of P12M B2C payments under new Paytypes, with payID, custID, date, payee name, oneoff/recurring, GTV, NetRev, Rev
+select
+    CARDUP_PAYMENT_PAYMENT_TYPE PAYMENT_TYPE,
+    sum(CARDUP_PAYMENT_USD_AMT) GTV
+from
+    ADM.TRANSACTION.CARDUP_PAYMENT_DENORM_T
+where
+    CARDUP_PAYMENT_STATUS NOT IN ('Payment Failed', 'Cancelled', 'Refunded', 'Refunding')
+    and CARDUP_PAYMENT_USD_AMT is not null
+    and CARDUP_PAYMENT_USER_TYPE = 'consumer'
+    and DATE_TRUNC('month', DATE(CARDUP_PAYMENT_SUCCESS_AT_UTC_TS)) = '2025-05-01'
+group by 1;
 

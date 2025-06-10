@@ -1,4 +1,4 @@
---ulang
+--Cohort Query
 with
     ACRA_MATCHING as (
         select distinct
